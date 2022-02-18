@@ -1,0 +1,24 @@
+{
+  "name": "frontend-ideia2001",
+  "version": "1.0.0",
+  "description": "![logo-ideia](https://user-images.githubusercontent.com/37415775/145830985-31161218-ce0f-4c05-9787-58e630e6b29b.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideia2001/teste-front-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideia2001/teste-front-end/issues"
+  },
+  "homepage": "https://github.com/ideia2001/teste-front-end#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.3"
+  }
+}
